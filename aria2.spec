@@ -4,7 +4,7 @@
 #
 Name     : aria2
 Version  : 1.36.0
-Release  : 4
+Release  : 5
 URL      : https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.xz
 Source0  : https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.xz
 Summary  : High speed download utility library
