@@ -1,13 +1,28 @@
 Configure miss: _Bool
+Configure miss: _Bool
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ option to enable C++11 features
+Configure miss: main in -ladvapi32
 Configure miss: main in -ladvapi32
 Configure miss: main in -lcrypt32
+Configure miss: main in -lcrypt32
+Configure miss: main in -lsecur32
 Configure miss: main in -lsecur32
 Configure miss: port.h
-Configure miss: port.h presence
-Configure miss: port.h usability
+Configure miss: port.h
+Configure miss: port_associate
 Configure miss: port_associate
 Configure miss: security.h
-Configure miss: stdbool.h that conforms to C99
+Configure miss: security.h
+Configure miss: struct sockaddr_in6.sin6_len
 Configure miss: struct sockaddr_in6.sin6_len
 Configure miss: whether to enable Mac OS X native SSL/TLS
+Configure miss: whether to enable Mac OS X native SSL/TLS
 Configure miss: wincrypt.h
+Configure miss: wincrypt.h
+Configure miss: x86_64-generic-linux-gnu-file
+Configure miss: x86_64-generic-linux-gnu-file
+Configure miss: x86_64-generic-linux-gnu-file
+Configure miss: x86_64-generic-linux-gnu-file
